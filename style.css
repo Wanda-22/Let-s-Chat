@@ -1,0 +1,37 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+    background-image: url("bg3.jpg");
+    font-family: 'Kalam', cursive;
+}
+
+
+.login_div
+{
+	background: rgba(252, 215, 218, 0.8);
+    color: #2E8B57;
+    font-size: 20px;
+    float: none;
+    border-radius: 15px;
+}
+
+.logo
+{
+	width: 200px;
+    height: 150px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.logo1
+{
+	width: 150px;
+    height: 125px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
